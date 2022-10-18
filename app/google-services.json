@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076316411867",
+    "project_id": "in-app-update-firebase",
+    "storage_bucket": "in-app-update-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076316411867:android:392442b88847b70440b9fe",
+        "android_client_info": {
+          "package_name": "id.my.okisulton.inappupdatefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076316411867-fpfngo5foorsi6sakd3vralkglb0u8tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVm3SOgIg1pI2-KTVsZbscV91KetwunY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076316411867-fpfngo5foorsi6sakd3vralkglb0u8tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
